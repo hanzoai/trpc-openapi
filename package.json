@@ -1,18 +1,21 @@
 {
-  "name": "@dokploy/trpc-openapi",
+  "name": "@hanzo/trpc-openapi",
   "version": "0.0.17",
-  "description": "tRPC OpenAPI",
-  "author": "dokploy",
+  "description": "tRPC OpenAPI - Generate OpenAPI specs from tRPC routers",
+  "author": "Hanzo AI Inc <dev@hanzo.ai>",
   "private": false,
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "trpc",
     "openapi",
     "swagger"
   ],
-  "homepage": "https://github.com/dokploy/trpc-openapi",
-  "repository": "github:dokploy/trpc-openapi",
-  "bugs": "https://github.com/dokploy/trpc-openapi/issues",
+  "homepage": "https://github.com/hanzoai/trpc-openapi",
+  "repository": "github:hanzoai/trpc-openapi",
+  "bugs": "https://github.com/hanzoai/trpc-openapi/issues",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.mjs",
   "typings": "dist/cjs/index.d.ts",
