@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="trpc-openapi" width="880"></p>
+
 <p align="center">
   <img src="assets/trpc-openapi.svg">
 </p>
