@@ -1,0 +1,13 @@
+# tRPC -> OpenAPI adapter. `pnpm run build` type-checks and runs jest before it
+# emits, so the one command is both the test and the build.
+#
+# No publish lane: .npmrc points the registry at pkg.hanzo.ai, and no credential
+# for it — or for npmjs — is declared on this repo or the hanzoai org, so a
+# publish step here would be a stub that cannot push. Releases are manual until
+# a token exists.
+test:
+  - name: build-and-test
+    run: |
+      set -euo pipefail
+      pnpm install --frozen-lockfile
+      pnpm run build
