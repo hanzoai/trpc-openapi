@@ -9,14 +9,14 @@
     "prepare": "nuxt prepare"
   },
   "devDependencies": {
-    "@types/node": "^22",
-    "nuxt": "3.19.3"
+    "@types/node": "catalog:",
+    "nuxt": "catalog:"
   },
   "dependencies": {
-    "@trpc/server": "^11.1.0",
-    "trpc-nuxt": "1.2.0",
+    "@trpc/server": "catalog:",
+    "trpc-nuxt": "catalog:",
     "trpc-to-openapi": "workspace:*",
-    "zod": "^4.0.0",
-    "zod-openapi": "5.4.2"
+    "zod": "catalog:",
+    "zod-openapi": "catalog:"
   }
 }
