@@ -5,6 +5,9 @@
 </p>
 <div align="center">
   <h1>trpc-to-openapi</h1>
+
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/trpc-openapi&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/trpc-openapi&ref=main&action=edit) [![Deploy with Hanzo](https://hanzo.app/badges/deploy-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/trpc-openapi&ref=main&action=deploy)
+
   <a href="https://www.npmjs.com/package/trpc-to-openapi"><img src="https://img.shields.io/npm/v/trpc-to-openapi.svg?style=flat&color=brightgreen" target="_blank" /></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-black" /></a>
   <br />
